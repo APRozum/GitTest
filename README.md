@@ -29,4 +29,4 @@ Kotlin, Gradle (DSL Kotlin), jetpack: ViewModel (MVVM), Navigation (Safe Args), 
 
 Контакты
 -
-Telegram https://t.me/APRozum
+Telegram https://t.me/RozumAndroid
